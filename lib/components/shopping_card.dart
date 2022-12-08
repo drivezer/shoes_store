@@ -12,7 +12,7 @@ Widget shoppingCard(String img, String productName, String price) {
           BoxShadow(blurRadius: 3, color: Colors.black26),
         ],
       ),
-      margin: const EdgeInsets.only(right: 10, top: 8, bottom: 8),
+      margin: const EdgeInsets.all(5),
       width: 130,
       height: 180,
       child: Padding(

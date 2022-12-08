@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.work02">
+    package="com.example.shoes_store">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="work02"
+        android:label="shoes_store"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

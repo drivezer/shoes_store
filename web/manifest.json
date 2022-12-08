@@ -1,6 +1,6 @@
 {
-    "name": "work02",
-    "short_name": "work02",
+    "name": "shoes_store",
+    "short_name": "shoes_store",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

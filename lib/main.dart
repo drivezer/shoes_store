@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:work02/components/promo_card.dart';
+import './components/promo_card.dart';
 
 import 'components/shopping_card.dart';
 
